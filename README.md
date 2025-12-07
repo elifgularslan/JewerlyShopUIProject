@@ -5,12 +5,29 @@
 This project is a multi-page website representing a modern jewelry store. Developed with HTML, CSS and JavaScript, it has a user-friendly interface and interactive features.
 
 ## 📸 ScreenShots
+## 📸 Screenshots
 
+### 🏠 Home Page
 ![Home Page](homepage-ss.png)
+![Home Page 2](homepagess2.png)
+![Home Page 3](homepagess3.png)
 
+### ℹ️ About Us
+![About Page](aboutpagess1.png)
+
+### 🛍️ Products
+![Product Page 1](productpagess1.png)
+![Product Page 2](productpagess2.png)
+
+### 💬 Reviews
+![Review Page](reviewpagess1.png)
+
+### 📞 Contact
+![Contact Page](contactpagess1.png)
 ## 🔍 PAGES
 
 - `home.html`: Home, video, category cards and highlights
+
 - `about.html`: About us video and company information
 - `review.html`: Customer reviews
 - `contact.html`: Contact form and location information

@@ -1,7 +1,5 @@
 
 
-All team members actively participated in every stage of the project — from ideation and design to coding and testing. The work was completed with shared responsibility and mutual support across all tasks including HTML/CSS structure, JavaScript functionality, UI/UX design, and documentation.
-
 # Jewelry Shop Website
 
 This project is a multi-page website representing a modern jewelry store. Developed with HTML, CSS and JavaScript, it has a user-friendly interface and interactive features.
